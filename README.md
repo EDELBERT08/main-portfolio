@@ -29,10 +29,9 @@ Instructions
 How to Use
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-repo/portfolio.git
-Open index.html: You can open the file directly in your browser or host it on a web server to make it publicly accessible.
+
+Access my portfolio through: https://edelbert08.github.io/main-portfolio/
+
 
 Customization:
 
